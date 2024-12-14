@@ -1,8 +1,8 @@
 /games/games_cleaned.csv
-/games/cleaned.csv
+/games/games.csv
 
-/player/player_cleaned.csv
-/player/cleaned.csv
+/players/players_cleaned.csv
+/players/players.csv
 
 /player_valuations/player_valuations_cleaned.csv
-/player_valuations/cleaned.csv
+/player_valuations/player_valuations.csv
